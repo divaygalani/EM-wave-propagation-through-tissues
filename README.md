@@ -1,5 +1,32 @@
 # EM-wave-propogation-through-tissues
 In this project, I analysed the passing of electromagnetic (EM) waves through body tissue, which can provide valuable insights and applications in the biomedical field. This area of study, often referred to as bioelectromagnetics, has led to various advances and potential benefits for healthcare and medical research.
+## Key Applications
+
+The analysis of EM wave interactions with body tissues can contribute to various biomedical applications:
+
+- **Medical Imaging**:
+    - **Microwave Imaging**: Development of imaging modalities such as microwave imaging for detecting breast cancer, brain tumors, and other abnormalities.
+    - **Magnetic Resonance Imaging (MRI)**: MRI utilizes radiofrequency waves and magnetic fields to generate images of soft tissues in the body.
+
+- **Therapeutic Applications**:
+    - **Hyperthermia Treatment**: Targeting specific areas with EM waves to raise tissue temperature and kill cancer cells or make them more susceptible to radiation therapy or chemotherapy.
+    - **Tissue Regeneration**: Certain frequencies of EM waves can stimulate tissue regeneration and healing.
+
+- **Wearable Health Monitoring**:
+    - Wearable devices use EM wave analysis to monitor physiological parameters such as heart rate and blood oxygen levels for real-time health monitoring.
+
+- **Non-Invasive Diagnostics**:
+    - **Dielectric Spectroscopy**: Analyzing dielectric properties of tissues for non-invasive diagnostic techniques, assessing tissue health and distinguishing between healthy and diseased tissues.
+    - **Electroporation**: Using EM waves to temporarily permeabilize cell membranes, useful for drug delivery or genetic engineering.
+
+- **Brain-Computer Interfaces**:
+    - EM waves are used in brain-computer interfaces to non-invasively measure brain activity and facilitate communication for individuals with disabilities.
+
+- **Safety Assessments**:
+    - Analyzing tissue interactions with EM waves helps establish safety standards for devices like mobile phones, Wi-Fi routers, and medical equipment.
+
+- **Understanding Biological Effects**:
+    - Researching how EM waves interact with tissues aids in understanding potential biological effects of exposure, leading to improved regulation and guidelines.
 
 This repository contains code and resources for simulating electromagnetic wave propagation in a 3D tissue grid using the Finite Difference Time Domain (FDTD) method. The simulation models the interaction between electromagnetic fields and tissue properties such as conductivity and permittivity.
 
