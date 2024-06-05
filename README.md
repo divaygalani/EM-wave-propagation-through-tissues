@@ -17,13 +17,13 @@ The analysis of EM wave interactions with body tissues can contribute to various
 
 - **Non-Invasive Diagnostics**:
     - **Dielectric Spectroscopy**: Analyzing dielectric properties of tissues for non-invasive diagnostic techniques, assessing tissue health and distinguishing between healthy and diseased tissues.
-    - **Electroporation**: Using EM waves to temporarily permeabilize cell membranes, useful for drug delivery or genetic engineering.
+    - **Electroporation**: We can use EM waves to temporarily permeabilize cell membranes, useful for drug delivery or genetic engineering.
 
 - **Brain-Computer Interfaces**:
-    - EM waves are used in brain-computer interfaces to non-invasively measure brain activity and facilitate communication for individuals with disabilities.
+    - EM waves can be used in brain-computer interfaces to non-invasively measure brain activity and facilitate communication for individuals with disabilities.
 
 - **Safety Assessments**:
-    - Analyzing tissue interactions with EM waves helps establish safety standards for devices like mobile phones, Wi-Fi routers, and medical equipment.
+    - Analyzing tissue interactions with EM waves help establish safety standards for devices like mobile phones, Wi-Fi routers, and medical equipment.
 
 - **Understanding Biological Effects**:
     - Researching how EM waves interact with tissues aids in understanding potential biological effects of exposure, leading to improved regulation and guidelines.
